@@ -1,3 +1,33 @@
+h1{
+    color:orange;
+    font-size: 60PX;
+    font-weight: 600px;
+    text-align: left;
+    margin-left: 5px;
+}
 p{
-    color: blue;
+    text-align: left;
+    font-size: 30px;
+    color:orange;
+}
+
+
+.top-part{
+    background-image: url(donate-today-main/images/donation6.jpg);
+    padding-bottom: 300px;
+    margin-bottom: 50px;
+   
+    background-repeat: no-repeat;
+}  
+.link-button{
+ text-decoration: none;
+ text-align: center;
+ font-size: 30px;
+ text-align: justify;
+ background-color:orange;
+ padding: 4px;
+ border-radius: 5px;
+ margin-left: 6px;
+
+ 
 }
